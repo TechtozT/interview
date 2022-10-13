@@ -1,0 +1,9 @@
+You are given with json file called data.json which containing data and metadata for drawing table.
+you will required to use angualar framework to create single page app with table to show data added in data.json file
+the output should look exactly the same as file in output.png
+
+#NOTE: do not modify any data inside data.json file
+
+#To submit work : 
+ Add your work in any public repository(Github,TaraVault,Bitbucket,SourceForge,Gogs,Gitbucket,AWS CodeCommit or any) and invites us to review your it.
+ Send us email with name/link to your public repository<baraka@ellipsis.co.tz;nk@ellipsis.co.tz;dayan.lachuo@ellipsis.co.tz>
