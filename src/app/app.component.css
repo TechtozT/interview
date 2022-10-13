@@ -1,0 +1,11 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  empty-cells: show;
+}
+
+.no-border table,
+.no-border {
+  border: none !important;
+}
