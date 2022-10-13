@@ -191,10 +191,6 @@ export class AppComponent {
     ],
   };
 
-  // setData(period: string, organizationUnit: string) {
-  //   const row = this.
-  // }
-
   getSpecificValue(period: string, oUnit: string, data: string) {
     const row = this.data.rows.find(
       (r: string[]) =>
@@ -203,10 +199,5 @@ export class AppComponent {
 
     if (!row) return '';
     return row[3];
-  }
-
-  getDataForOu(ou: string) {
-    const d = this.data.rows.filter((row: string[]) => row.includes(ou));
-    console.log(ou, d);
   }
 }
